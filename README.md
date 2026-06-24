@@ -16,8 +16,8 @@
 
 ## 📚 Currently Learning
 
-- TryHackMe Junior Pentester Path  
-- Machine Learning  
+- TryHackMe Labs
+- Network Security 
 
 ---
 
